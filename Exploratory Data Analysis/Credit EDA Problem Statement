@@ -22,4 +22,4 @@ Cancelled: The client cancelled the application sometime during approval. Either
 Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
 Unused offer:  Loan has been cancelled by the client but on different stages of the process.
 
-In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+Use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
